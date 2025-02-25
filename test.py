@@ -1,1 +1,1 @@
-print "Its a new day. Yes it is!!!"
+print ("Its a new day. Yes it is!!!")
